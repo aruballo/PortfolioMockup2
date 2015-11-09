@@ -386,6 +386,7 @@
     "forms.less",
     "navs.less",
     "navbar.less",
+    "dropdowns.less",
     "modals.less"
   ],
   "js": [
@@ -402,5 +403,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "https://getbootstrap.com/customize/?id=1d8384d3cf6b2e4995b1"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=b6f1dfaed5208bcda086"
 }
