@@ -37,3 +37,7 @@ img, embed, object, video {
 .headerIcon {
 	margin: 10px 0 0 0;
 }
+
+.project-image {
+	max-width: 80%;
+}
