@@ -1,43 +1,42 @@
 body {
-	font-family: 'Lato', sans-serif;
-	font-weight: 300;
-	color: black;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: black;
 }
 
 hr {
-	border-width: 5px 0px 0px;
+    border-width: 5px 0px 0px;
 }
 
 a, a:hover, a:visited {
-	color: #bcbbbb;
-	font-size: 12px;
+    color: #bcbbbb;
+    font-size: 12px;
 }
 
 img, embed, object, video {
-	max-width: 100%;
+    max-width: 100%;
 }
 
-
 .muted {
-	color: #bcbbbb;
+    color: #bcbbbb;
 }
 
 .weight100 {
-	font-weight: 100;
+    font-weight: 100;
 }
 
 .super {
-	font-size: 48px;
+    font-size: 48px;
 }
 
 .weight600 {
-	font-weight: 600;
+    font-weight: 600;
 }
 
 .headerIcon {
-	margin: 10px 0 0 0;
+    margin: 10px 0 0 0;
 }
 
 .project-image {
-	max-width: 80%;
+    max-width: 80%;
 }
